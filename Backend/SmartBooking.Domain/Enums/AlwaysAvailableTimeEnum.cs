@@ -1,0 +1,30 @@
+﻿namespace SmartBooking.Domain.Enums
+{
+    public enum AlwaysAvailableTimeEnum
+    {
+        FromZeroToOne,
+        FromOneToTwo,
+        FromTwoToThree,
+        FromThreeToFour,
+        FromFourToFive,
+        FromFiveToSix,
+        FromSixToSeven,
+        FromSevenToEight,
+        FromEightToNine,
+        FromNineToTen,
+        FromTenToEleven,
+        FromElevenToTwelve,
+        FromTwelveToThirteen,
+        FromThirteenToFourteen,
+        FromFourteenToFifteen,
+        FromFifteenToSixteen,
+        FromSixteenToSeventeen,
+        FromSeventeenToEighteen,
+        FromEighteenToNineteen,
+        FromNineteenToTwenty,
+        FromTwentyToTwentyOne,
+        FromTwentyOneToTwentyTwo,
+        FromTwentyTwoToTwentyThree,
+        FromTwentyThreeToZero
+    }
+}
